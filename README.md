@@ -1,6 +1,6 @@
 # Sales Prediction App
 
-![Sales Prediction App](Image/trends.jpg)
+![Sales Prediction App](Image/trends.png)
 
 
 This repository contains a Streamlit application for predicting sales based on various factors like the number of items on promotion, date, city, state, and item family.
