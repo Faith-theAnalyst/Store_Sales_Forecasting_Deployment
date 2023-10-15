@@ -1,0 +1,4 @@
+python -m venv venv_streamlit
+.\venv_streamlit\Scripts\Activate
+python -m pip install -q --upgrade pip
+python -m pip install -qr requirements.txt
