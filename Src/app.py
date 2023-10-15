@@ -108,6 +108,8 @@ if page_selection == 'Prediction':
 elif page_selection == 'Model Information':
     st.title("About the Model")
     
+    st.image('Image/trends.png', use_column_width=True)
+    
     st.subheader("Model Accuracy")
     st.write("The best model, equipped with its fine-tuned parameters, achieved an impressive Root Mean Squared Logarithmic Error (RMSLE) of 0.0054. This low RMSLE score underscores the model's accuracy.")
     
